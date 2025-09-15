@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pro Chat",
+  "description": "An advanced, multimodal chat interface for the Gemini API with persistent history, voice input, and theme support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
